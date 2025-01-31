@@ -1,3 +1,64 @@
-body {
-  font-family: 'Clash Display', sans-serif;
+
+
+* {
+  font-family: 'Clash Display', sans-serif; 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+body {
+  background-color: #f0f0f0;
+  /* color: ; */
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  gap: 55px;
+}
+
+.header {
+  padding: 20px 100px;
+}
+
+.nav_container {
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.section {
+  padding: 5.5rem 0 1rem;
+}
+
+.icons {
+  /* width: 80px;
+  height: 80px;
+  background-color: aqua;
+  border-radius: 20px;
+  padding: 10px; */
+}
+
+
+
